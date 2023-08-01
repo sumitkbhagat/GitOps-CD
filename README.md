@@ -1,2 +1,2 @@
 # GitOps-CD
-## Aditya
+## Aditya.
